@@ -1,0 +1,7 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.ManipulacaoMedicamentos\IP.ManipulacaoMedicamentos\obj\Debug\net7.0\IP.ManipulacaoMedicamentos.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.ManipulacaoMedicamentos\IP.ManipulacaoMedicamentos\obj\Debug\net7.0\IP.ManipulacaoMedicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.ManipulacaoMedicamentos\IP.ManipulacaoMedicamentos\obj\Debug\net7.0\IP.ManipulacaoMedicamentos.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.ManipulacaoMedicamentos\IP.ManipulacaoMedicamentos\obj\Debug\net7.0\IP.ManipulacaoMedicamentos.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.ManipulacaoMedicamentos\IP.ManipulacaoMedicamentos\obj\Debug\net7.0\IP.ManipulacaoMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.ManipulacaoMedicamentos\IP.ManipulacaoMedicamentos\obj\Debug\net7.0\IP.ManipulacaoMedicamentos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.ManipulacaoMedicamentos\IP.ManipulacaoMedicamentos\obj\Debug\net7.0\IP.ManipulacaoMedicamentos.MvcApplicationPartsAssemblyInfo.cache

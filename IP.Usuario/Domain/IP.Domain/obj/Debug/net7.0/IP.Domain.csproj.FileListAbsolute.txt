@@ -1,0 +1,14 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\bin\Debug\net7.0\IP.Domain.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\bin\Debug\net7.0\IP.Domain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\bin\Debug\net7.0\IP.Domain.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\IP.Domain.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\IP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\IP.Domain.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\IP.Domain.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\IP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\IP.Domain.csproj.CopyComplete
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\IP.Domain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\refint\IP.Domain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\IP.Domain.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Domain\IP.Domain\obj\Debug\net7.0\ref\IP.Domain.dll

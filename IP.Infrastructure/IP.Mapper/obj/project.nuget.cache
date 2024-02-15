@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QyRvkkykW/nvzaPTs7gUXy/eNvNgPFaDk1VoAG6l1QLIciE4TqpwVMGZJ/CimfvowB5gUgmnRLpeVusVcKZoGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

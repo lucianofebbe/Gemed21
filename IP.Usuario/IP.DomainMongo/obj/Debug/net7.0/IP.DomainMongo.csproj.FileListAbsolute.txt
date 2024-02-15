@@ -1,0 +1,14 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\bin\Debug\net7.0\IP.DomainMongo.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\bin\Debug\net7.0\IP.DomainMongo.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\bin\Debug\net7.0\IP.DomainMongo.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\IP.DomainMongo.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\IP.DomainMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\IP.DomainMongo.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\IP.DomainMongo.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\IP.DomainMongo.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\IP.DomainMongo.csproj.CopyComplete
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\IP.DomainMongo.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\refint\IP.DomainMongo.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\IP.DomainMongo.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\IP.DomainMongo\obj\Debug\net7.0\ref\IP.DomainMongo.dll
