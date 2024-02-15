@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Application\IP.Application.Comands.Requests\IP.Application.Comands.Requests.csproj" />
+    <ProjectReference Include="..\..\Application\IP.Application.Comands.Responses\IP.Application.Comands.Responses.csproj" />
+    <ProjectReference Include="..\..\Domain\IP.Domain\IP.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="IP.BaseDomains">
+      <HintPath>..\IP.Dlls.Infrastructure\IP.BaseDomains.dll</HintPath>
+    </Reference>
+    <Reference Include="IP.Mapper">
+      <HintPath>..\IP.Dlls.Infrastructure\IP.Mapper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

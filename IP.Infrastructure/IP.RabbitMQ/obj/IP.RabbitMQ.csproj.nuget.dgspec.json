@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj",
+        "projectName": "IP.BaseDomains",
+        "projectPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.BaseDomains\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
+        "projectName": "IP.Mapper",
+        "projectPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
+                "projectPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj",
+        "projectName": "IP.RabbitMQ",
+        "projectPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.RabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
+                "projectPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
+              },
+              "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj": {
+                "projectPath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

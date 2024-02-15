@@ -1,0 +1,12 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\bin\Debug\net7.0\IP.Cryptography.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\bin\Debug\net7.0\IP.Cryptography.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\IP.Cryptography.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\IP.Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\IP.Cryptography.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\IP.Cryptography.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\IP.Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\IP.Cryptography.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\refint\IP.Cryptography.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\IP.Cryptography.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Cryptography\obj\Debug\net7.0\ref\IP.Cryptography.dll

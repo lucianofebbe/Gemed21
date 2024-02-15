@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9LYwF/fLsIra3CGOV1Gzk5L2J7d8Zti6zhMgxNYoBI/hC0Ft+Fhex5IEWuFKcdpDvs1q0VYtzmiz6RT7eS3qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.Usuario\\Infrastructure\\IP.Mapper.Infrastructure\\IP.Mapper.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucia\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

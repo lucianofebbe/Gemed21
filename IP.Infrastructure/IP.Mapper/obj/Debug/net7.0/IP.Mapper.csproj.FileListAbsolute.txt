@@ -1,0 +1,15 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\bin\Debug\net7.0\IP.Mapper.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\bin\Debug\net7.0\IP.Mapper.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\bin\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\IP.Mapper.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\IP.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\IP.Mapper.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\IP.Mapper.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\IP.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\IP.Mapper.csproj.CopyComplete
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\IP.Mapper.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\refint\IP.Mapper.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\IP.Mapper.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.Mapper\obj\Debug\net7.0\ref\IP.Mapper.dll

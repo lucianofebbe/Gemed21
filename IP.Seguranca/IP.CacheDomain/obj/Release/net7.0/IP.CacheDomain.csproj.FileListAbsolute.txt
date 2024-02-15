@@ -1,0 +1,14 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\bin\Release\net7.0\IP.CacheDomain.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\bin\Release\net7.0\IP.CacheDomain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\bin\Release\net7.0\IP.CacheDomain.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\bin\Release\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\IP.CacheDomain.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\IP.CacheDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\IP.CacheDomain.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\IP.CacheDomain.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\IP.CacheDomain.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\IP.CacheDomain.csproj.CopyComplete
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\IP.CacheDomain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\refint\IP.CacheDomain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\IP.CacheDomain.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheDomain\obj\Release\net7.0\ref\IP.CacheDomain.dll

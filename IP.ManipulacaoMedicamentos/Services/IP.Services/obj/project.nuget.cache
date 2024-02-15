@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TpHB3jqyi3wY84HEl+/UXLonMaqDq5UGiO2jsv5xwOzxT2nas/2lp3U2uNrWL84cIvcXk67hAr+AmvZ4CUsZLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucia\\source\\Gemed21\\BackEnd\\IP.ManipulacaoMedicamentos\\Services\\IP.Services\\IP.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucia\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

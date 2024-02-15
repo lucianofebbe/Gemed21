@@ -1,0 +1,15 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Debug\net7.0\IP.EasyAdoSqlServer.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Debug\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Debug\net7.0\IP.EasyAdoSqlServer.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\IP.EasyAdoSqlServer.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\IP.EasyAdoSqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\IP.EasyAdoSqlServer.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\IP.EasyAdoSqlServer.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\IP.EasyAdoSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\IP.EasyAdoSqlServer.csproj.CopyComplete
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\refint\IP.EasyAdoSqlServer.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\IP.EasyAdoSqlServer.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Debug\net7.0\ref\IP.EasyAdoSqlServer.dll

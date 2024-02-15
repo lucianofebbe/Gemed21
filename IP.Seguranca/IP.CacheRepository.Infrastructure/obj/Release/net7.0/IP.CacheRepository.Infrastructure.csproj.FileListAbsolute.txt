@@ -1,0 +1,15 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\bin\Release\net7.0\IP.CacheRepository.Infrastructure.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\bin\Release\net7.0\IP.CacheRepository.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\bin\Release\net7.0\IP.CacheRepository.Infrastructure.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\bin\Release\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\bin\Release\net7.0\IP.MongoDb.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\IP.CacheRepository.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\IP.CacheRepository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\IP.CacheRepository.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\IP.CacheRepository.Infrastructure.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\IP.CacheRepository.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\IP.CacheRepository.Infrastructure.csproj.CopyComplete
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\IP.CacheRepository.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\refint\IP.CacheRepository.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\IP.CacheRepository.Infrastructure.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Seguranca\IP.CacheRepository.Infrastructure\obj\Release\net7.0\ref\IP.CacheRepository.Infrastructure.dll
