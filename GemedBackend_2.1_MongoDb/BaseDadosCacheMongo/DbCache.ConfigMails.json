@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65d891428ea237ff046e3222"
+  },
+  "Provider": "Gmail",
+  "Host": "smtp.gmail.com",
+  "Port": 587,
+  "EnableSsl": true,
+  "UseDefaultCredentials": false,
+  "Password": "L-99531202-s",
+  "SenderEmail": "lucianofebbedossantos@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65d891558ea237ff046e3224"
+  },
+  "Provider": "Hotmail",
+  "Host": "smtp.hotmail.com",
+  "Port": 587,
+  "EnableSsl": true,
+  "UseDefaultCredentials": false,
+  "Password": "L-99531202-s",
+  "SenderEmail": "lucianofebbedossantos@hotmail.com"
+}]

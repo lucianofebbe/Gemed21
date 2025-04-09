@@ -1,0 +1,558 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.DependencyInjection.Infrastructure\\IP.DependencyInjection.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj",
+        "projectName": "IP.Application.Comands.Requests",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj",
+        "projectName": "IP.Application.Comands.Responses",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj",
+        "projectName": "IP.Application.Handlers",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Handlers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj"
+              },
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj"
+              },
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Services\\IP.Services\\IP.Services.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Services\\IP.Services\\IP.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Domain\\IP.Domain\\IP.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Domain\\IP.Domain\\IP.Domain.csproj",
+        "projectName": "IP.Domain",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Domain\\IP.Domain\\IP.Domain.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Domain\\IP.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.DependencyInjection.Infrastructure\\IP.DependencyInjection.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.DependencyInjection.Infrastructure\\IP.DependencyInjection.Infrastructure.csproj",
+        "projectName": "IP.DependencyInjection.Infrastructure",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.DependencyInjection.Infrastructure\\IP.DependencyInjection.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.DependencyInjection.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj"
+              },
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj"
+              },
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.Mapper.Infrastructure\\IP.Mapper.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.Mapper.Infrastructure\\IP.Mapper.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.Mapper.Infrastructure\\IP.Mapper.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.Mapper.Infrastructure\\IP.Mapper.Infrastructure.csproj",
+        "projectName": "IP.Mapper.Infrastructure",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.Mapper.Infrastructure\\IP.Mapper.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.Mapper.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Services\\IP.Services\\IP.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Services\\IP.Services\\IP.Services.csproj",
+        "projectName": "IP.Services",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Services\\IP.Services\\IP.Services.csproj",
+        "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Services\\IP.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj"
+              },
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj"
+              },
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Domain\\IP.Domain\\IP.Domain.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Domain\\IP.Domain\\IP.Domain.csproj"
+              },
+              "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.Mapper.Infrastructure\\IP.Mapper.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.Mapper.Infrastructure\\IP.Mapper.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.23.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

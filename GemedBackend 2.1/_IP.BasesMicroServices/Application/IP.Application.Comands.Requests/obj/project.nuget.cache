@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPJo424GKHlOLDbt5s/KPjs+6uqWP3Gz6QMgqJhZU8jRfwGsvYNimmInPC7oV9Z+9b5vaPibK/gMxwJLtYCVsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Interprocess\\Documents\\Gemed21\\GemedBackend 2.1\\IP.ManipulacaoMedicamentos\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Interprocess\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Interprocess\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Interprocess\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

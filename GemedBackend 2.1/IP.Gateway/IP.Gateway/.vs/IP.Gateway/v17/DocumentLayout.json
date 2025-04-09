@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\IP.Gateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4349D20A-2ACF-4C4F-AB37-5F527FE8708B}|..\\Services\\IP.Services\\IP.Services.csproj|c:\\users\\lucia\\documents\\gemed\\gemedbackend 2.1\\ip.gateway\\services\\ip.services\\requests\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590B6C72-4E76-409B-9CFB-EDE6D2C4C557}|..\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj|c:\\users\\lucia\\documents\\gemed\\gemedbackend 2.1\\ip.gateway\\application\\ip.application.handlers\\gatewayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Services\\IP.Services\\Requests\\RequestService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IP.Services\\Requests\\RequestService.cs",
+              "ToolTip": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Services\\IP.Services\\Requests\\RequestService.cs",
+              "RelativeToolTip": "..\\Services\\IP.Services\\Requests\\RequestService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:16:20.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GatewayHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Handlers\\GatewayHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\IP.Application.Handlers\\GatewayHandler.cs",
+              "ToolTip": "C:\\Users\\lucia\\Documents\\Gemed\\GemedBackend 2.1\\IP.Gateway\\Application\\IP.Application.Handlers\\GatewayHandler.cs",
+              "RelativeToolTip": "..\\Application\\IP.Application.Handlers\\GatewayHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:15:21.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

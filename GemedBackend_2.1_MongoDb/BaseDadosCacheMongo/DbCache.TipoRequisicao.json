@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "65d8e8cd8ea237ff046e3248"
+  },
+  "Type": "Autenticacao",
+  "Servico": "IP.Usuario",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "65d923098ea237ff046e325d"
+  },
+  "Type": "Autorizacao",
+  "Servico": "IP.Seguranca",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "65d8e9fb8ea237ff046e324c"
+  },
+  "Type": "Usuario",
+  "Servico": "IP.Usuario",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "65d8ea068ea237ff046e324e"
+  },
+  "Type": "Seguranca",
+  "Servico": "IP.Seguranca",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "65d8ea108ea237ff046e3250"
+  },
+  "Type": "Faturamento",
+  "Servico": "IP.Faturamento",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "65d8ea1b8ea237ff046e3252"
+  },
+  "Type": "EstoqueCompras",
+  "Servico": "IP.Assistencial",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "65d8ea268ea237ff046e3254"
+  },
+  "Type": "Assistencial",
+  "Servico": "IP.Assistencial",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "65d8ea2f8ea237ff046e3256"
+  },
+  "Type": "Agendamento",
+  "Servico": "IP.Agendamento",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "65d8ea378ea237ff046e3258"
+  },
+  "Type": "Administrativo",
+  "Servico": "IP.Administrativo",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "6604cb76d0a44f83aecf747b"
+  },
+  "Type": "ManipulacaoMedicamentos",
+  "Servico": "IP.ManipulacaoMedicamentos",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "6604cbc7d0a44f83aecf747c"
+  },
+  "Type": "Financeiro",
+  "Servico": "IP.Financeiro",
+  "HostName": "",
+  "HostNameDesenv": ""
+},
+{
+  "_id": {
+    "$oid": "6604cbf8d0a44f83aecf747d"
+  },
+  "Type": "Clientes",
+  "Servico": "IP.Clientes",
+  "HostName": "",
+  "HostNameDesenv": ""
+}]

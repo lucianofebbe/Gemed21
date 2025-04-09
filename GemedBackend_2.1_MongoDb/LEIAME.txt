@@ -1,0 +1,3 @@
+Antes de rodar esse compose, recorta esse diretorio e coloque o mesmo no mesmo nivel
+do diretorio GemedBackend 2.1, assim o compose ira criar o container do mongo
+fora do container de servicos

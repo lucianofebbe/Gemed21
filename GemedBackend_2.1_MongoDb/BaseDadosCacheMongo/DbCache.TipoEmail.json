@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "65d892028ea237ff046e322c"
+  },
+  "Type": "SendInvite",
+  "Text": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Recuperação de Token</title>\n</head>\n<body>\n    <p>Olá,</p>\n    \n    <p>Você solicitou a recuperação do token. Clique no link abaixo para continuar:</p>\n    \n    <a href=\"https://seusite.com/recuperacao-token?token={{SEU_TOKEN}}\" target=\"_blank\">Recuperar Token</a>\n    \n    <p>Se você não solicitou essa recuperação, por favor, ignore este e-mail.</p>\n    \n    <p>Atenciosamente,<br> Sua Gemed</p>\n</body>\n</html>\n"
+}]

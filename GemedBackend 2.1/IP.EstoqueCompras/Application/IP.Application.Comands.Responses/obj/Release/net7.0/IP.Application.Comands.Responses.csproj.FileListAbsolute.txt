@@ -1,0 +1,15 @@
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\bin\Release\net7.0\IP.Application.Comands.Responses.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\bin\Release\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\bin\Release\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\bin\Release\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Application.Comands.Responses.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Application.Comands.Responses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Application.Comands.Responses.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Application.Comands.Responses.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Application.Comands.Responses.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Application.Comands.Responses.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Appli.B1EC0465.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\refint\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Responses\obj\Release\net7.0\ref\IP.Application.Comands.Responses.dll

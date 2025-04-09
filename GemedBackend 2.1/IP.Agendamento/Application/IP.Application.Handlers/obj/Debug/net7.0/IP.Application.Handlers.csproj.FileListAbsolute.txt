@@ -1,0 +1,137 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Domain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.DomainMongo.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mapper.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Repository.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Services.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Domain.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mapper.Infrastructure.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Repository.Infrastructure.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Services.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.DomainMongo.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Appli.05244763.Up2Date
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\refint\IP.Application.Handlers.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\ref\IP.Application.Handlers.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Repository.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Services.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Repository.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Services.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Domains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Appli.05244763.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\refint\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Handlers\obj\Debug\net7.0\ref\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Repository.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Services.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Repository.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Services.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Domains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Appli.05244763.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\refint\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Application\IP.Application.Handlers\obj\Debug\net7.0\ref\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Repository.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Services.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Repository.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Services.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.Domains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Appli.05244763.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\refint\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Agendamento\Application\IP.Application.Handlers\obj\Debug\net7.0\ref\IP.Application.Handlers.dll

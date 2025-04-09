@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IP.BaseDomains\IP.BaseDomains.csproj" />
+    <ProjectReference Include="..\IP.Mails\IP.Mails.csproj" />
+    <ProjectReference Include="..\IP.MongoDb\IP.MongoDb.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

@@ -1,0 +1,41 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.RabbitMQ.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.RabbitMQ.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.Mapper.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\refint\IP.RabbitMQ.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\ref\IP.RabbitMQ.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.Rabbi.43CED128.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.RabbitMQ.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.RabbitMQ.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.Logs.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.Mapper.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.Mails.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\bin\Debug\net7.0\IP.MongoDb.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.Rabbi.43CED128.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\refint\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\IP.RabbitMQ.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.RabbitMQ\obj\Debug\net7.0\ref\IP.RabbitMQ.dll

@@ -1,0 +1,558 @@
+[{
+  "_id": {
+    "$oid": "65e8e2eaa0dbe4a1c4095acb"
+  },
+  "Type": "GemedCardio",
+  "Company": "CISAME",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedCISAME;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e8e2f7a0dbe4a1c4095acd"
+  },
+  "Type": "GemedCardio",
+  "Company": "EcoFetal",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedEcoFetal;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e8e304a0dbe4a1c4095acf"
+  },
+  "Type": "GemedCardio",
+  "Company": "Ingastro",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedEcoFetal;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e8e319a0dbe4a1c4095ad1"
+  },
+  "Type": "GemedCardio",
+  "Company": "Interprocess",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedCecor;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e8e326a0dbe4a1c4095ad3"
+  },
+  "Type": "GemedCardio",
+  "Company": "Cecor",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedCecor;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e8e334a0dbe4a1c4095ad5"
+  },
+  "Type": "GemedCardio",
+  "Company": "OcularCenter",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedOcularCenter;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e8e340a0dbe4a1c4095ad7"
+  },
+  "Type": "GemedCardio",
+  "Company": "EcoMoinhos",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedEcoMoinhos;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e8e34da0dbe4a1c4095ad9"
+  },
+  "Type": "GemedCardio",
+  "Company": "JaqueCostaCoelho",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedJaqueCostaCoelho;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e8e359a0dbe4a1c4095adb"
+  },
+  "Type": "GemedCardio",
+  "Company": "OrtopediaZonaSul",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GemedOrtopediaZonaSul;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e900aaa0dbe4a1c4095ade"
+  },
+  "Type": "GemedCardio",
+  "Company": "ICI",
+  "ConnectionString": "Database=GemedICI;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90113a0dbe4a1c4095ae0"
+  },
+  "Type": "GemedCardio",
+  "Company": "CACV",
+  "ConnectionString": "Database=GemedCACV;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90133a0dbe4a1c4095ae2"
+  },
+  "Type": "GemedCardio",
+  "Company": "HMV",
+  "ConnectionString": "Database=GemedHMV;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90153a0dbe4a1c4095ae4"
+  },
+  "Type": "GemedOnco",
+  "Company": "IOM",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomIOM;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90170a0dbe4a1c4095ae6"
+  },
+  "Type": "GemedOnco",
+  "Company": "OncoClin",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomOncoClin;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90198a0dbe4a1c4095ae8"
+  },
+  "Type": "GemedOnco",
+  "Company": "Kaplan",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomKaplan;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e901aea0dbe4a1c4095aea"
+  },
+  "Type": "GemedOnco",
+  "Company": "Upco",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomUpco;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e901c3a0dbe4a1c4095aec"
+  },
+  "Type": "GemedOnco",
+  "Company": "Viver",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomViver;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e901d9a0dbe4a1c4095aee"
+  },
+  "Type": "GemedOnco",
+  "Company": "Oncotrata",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomOncotrata;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e901efa0dbe4a1c4095af0"
+  },
+  "Type": "GemedOnco",
+  "Company": "Oncocenter",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomOncocenter;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90206a0dbe4a1c4095af2"
+  },
+  "Type": "GemedOnco",
+  "Company": "Oncotek",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomOncotek;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9021ca0dbe4a1c4095af4"
+  },
+  "Type": "GemedOnco",
+  "Company": "Vitae",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=GescomVitae;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9023ca0dbe4a1c4095af6"
+  },
+  "Type": "GemedOnco",
+  "Company": "CliniOnco",
+  "ConnectionString": "Database=GescomClinionco;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9025aa0dbe4a1c4095af8"
+  },
+  "Type": "GemedOnco",
+  "Company": "ICB",
+  "ConnectionString": "Database=GescomICB;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90274a0dbe4a1c4095afa"
+  },
+  "Type": "GemedOnco",
+  "Company": "Devita",
+  "ConnectionString": "Database=GescomDevita;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9028fa0dbe4a1c4095afc"
+  },
+  "Type": "GemedOnco",
+  "Company": "CTO",
+  "ConnectionString": "Database=GescomCTO;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e902c7a0dbe4a1c4095afe"
+  },
+  "Type": "GemedOnco",
+  "Company": "CTCAN",
+  "ConnectionString": "Database=GescomCTCAN;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e902e7a0dbe4a1c4095b00"
+  },
+  "Type": "GemedOnco",
+  "Company": "Monitor",
+  "ConnectionString": "Database=GescomICB;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9030da0dbe4a1c4095b02"
+  },
+  "Type": "GemedOnco",
+  "Company": "SantaRosa",
+  "ConnectionString": "Database=GescomSantaRosa;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9032ba0dbe4a1c4095b04"
+  },
+  "Type": "GemedOnco",
+  "Company": "Ampla",
+  "ConnectionString": "Database=GescomAMPLA;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90345a0dbe4a1c4095b06"
+  },
+  "Type": "GemedOnco",
+  "Company": "PepWeb",
+  "ConnectionString": "Database=GescomClinionco;Server=IPNOTE-14;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90364a0dbe4a1c4095b08"
+  },
+  "Type": "GemedOnco",
+  "Company": "GTTO",
+  "ConnectionString": "Database=GescomGTTO;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9037da0dbe4a1c4095b0a"
+  },
+  "Type": "GemedOnco",
+  "Company": "SaintGallen",
+  "ConnectionString": "Database=GescomSaintGallen;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90396a0dbe4a1c4095b0c"
+  },
+  "Type": "GemedOnco",
+  "Company": "Oncosinos",
+  "ConnectionString": "Database=GescomOncosinos;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e903b4a0dbe4a1c4095b0e"
+  },
+  "Type": "GemedOnco",
+  "Company": "UnimedPoa",
+  "ConnectionString": "Database=GescomUnimedPoaSimpro;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e903d0a0dbe4a1c4095b10"
+  },
+  "Type": "GemedOnco",
+  "Company": "UnimedPoaSimpro",
+  "ConnectionString": "Database=GescomUnimedPoaSimpro;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e903eaa0dbe4a1c4095b12"
+  },
+  "Type": "GemedOnco",
+  "Company": "Oncolive",
+  "ConnectionString": "Database=GescomOncolive;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90405a0dbe4a1c4095b14"
+  },
+  "Type": "GemedOnco",
+  "Company": "Cecan",
+  "ConnectionString": "Database=GescomCecan;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9041fa0dbe4a1c4095b16"
+  },
+  "Type": "GemedOnco",
+  "Company": "Imunocare",
+  "ConnectionString": "Database=GescomImunoCare;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90437a0dbe4a1c4095b18"
+  },
+  "Type": "GemedOnco",
+  "Company": "Imunoclin",
+  "ConnectionString": "Database=GescomImunoclin;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90453a0dbe4a1c4095b1a"
+  },
+  "Type": "GemedOnco",
+  "Company": "DevitaSorocaba",
+  "ConnectionString": "Database=GescomDevitaSorocaba;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9046da0dbe4a1c4095b1c"
+  },
+  "Type": "GemedOnco",
+  "Company": "Solus",
+  "ConnectionString": "Database=GescomSolus;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90485a0dbe4a1c4095b1e"
+  },
+  "Type": "GemedOnco",
+  "Company": "ICM",
+  "ConnectionString": "Database=GescomICM;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9049ea0dbe4a1c4095b20"
+  },
+  "Type": "GemedOnco",
+  "Company": "CCI",
+  "ConnectionString": "Database=GescomCCI;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e904bda0dbe4a1c4095b22"
+  },
+  "Type": "GemedOnco",
+  "Company": "Noova",
+  "ConnectionString": "Database=GescomNoova;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e904d4a0dbe4a1c4095b24"
+  },
+  "Type": "GemedOnco",
+  "Company": "AvFarma",
+  "ConnectionString": "Database=GescomAvFarma;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e904eea0dbe4a1c4095b26"
+  },
+  "Type": "GemedOnco",
+  "Company": "AvFarma_Teste",
+  "ConnectionString": "Database=GescomAvFarma_Teste;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90509a0dbe4a1c4095b28"
+  },
+  "Type": "GemedOnco",
+  "Company": "LifePharma",
+  "ConnectionString": "Database=GescomLifePharma;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90524a0dbe4a1c4095b2a"
+  },
+  "Type": "GemedOnco",
+  "Company": "CITAC",
+  "ConnectionString": "Database=GescomCITAC;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9053ca0dbe4a1c4095b2c"
+  },
+  "Type": "GemedOnco",
+  "Company": "Onkologica",
+  "ConnectionString": "Database=GescomOnkologica;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90554a0dbe4a1c4095b2e"
+  },
+  "Type": "GemedOnco",
+  "Company": "RedeImpar",
+  "ConnectionString": "Database=GescomRedeImpar;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9056ea0dbe4a1c4095b30"
+  },
+  "Type": "GemedOnco",
+  "Company": "OncocenterMedicos",
+  "ConnectionString": "Database=GescomOncocenterMedicos;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90586a0dbe4a1c4095b32"
+  },
+  "Type": "GemedOnco",
+  "Company": "UnimedPlanalto",
+  "ConnectionString": "Database=GescomUnimedPlanalto;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9059fa0dbe4a1c4095b34"
+  },
+  "Type": "GemedOnco",
+  "Company": "UnimedPatoBranco",
+  "ConnectionString": "Database=GescomUnimedPatoBranco;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e905baa0dbe4a1c4095b36"
+  },
+  "Type": "GemedOnco",
+  "Company": "Apresentacao",
+  "ConnectionString": "Database=GescomApresentacao;Server=10.0.211.10; User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e905d1a0dbe4a1c4095b38"
+  },
+  "Type": "GemedOnco",
+  "Company": "IOI",
+  "ConnectionString": "Database=GescomIOI;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e905e8a0dbe4a1c4095b3a"
+  },
+  "Type": "GemedOnco",
+  "Company": "OncoSantana",
+  "ConnectionString": "Database=GescomOncoSantana;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90601a0dbe4a1c4095b3c"
+  },
+  "Type": "GemedOnco",
+  "Company": "Oncocentro",
+  "ConnectionString": "Database=GescomOncocentro;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9061ca0dbe4a1c4095b3e"
+  },
+  "Type": "GemedOnco",
+  "Company": "NOC",
+  "ConnectionString": "Database=GescomNOC;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90635a0dbe4a1c4095b40"
+  },
+  "Type": "GemedOnco",
+  "Company": "OCF",
+  "ConnectionString": "Database=GescomOCF;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e9064da0dbe4a1c4095b42"
+  },
+  "Type": "GemedOnco",
+  "Company": "SanGiovanni",
+  "ConnectionString": "Database=GescomSanGiovanni;Server=10.0.211.10;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65e90670a0dbe4a1c4095b44"
+  },
+  "Type": "GemedOnco",
+  "Company": "IpNotificacao",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=IpNotificacao;User Id=Gemed;Password=Mc/J(]3v]fPZJ21",
+  "ProviderName": "System.Data.SqlClient"
+},
+{
+  "_id": {
+    "$oid": "65f363d7a0dbe4a1c4095b75"
+  },
+  "Type": "Autenticacao",
+  "Company": "",
+  "ConnectionString": "Data Source=10.0.211.10;Initial Catalog=IPSeguranca;User Id=Gemed;Password=Mc/J(]3v]fPZJ21;TrustServerCertificate=true;",
+  "ProviderName": "System.Data.SqlClient"
+}]

@@ -1,0 +1,25 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\bin\Debug\net7.0\IP.BaseDomains.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\bin\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\refint\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\ref\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\bin\Debug\net7.0\IP.BaseDomains.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\bin\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\refint\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.BaseDomains\obj\Debug\net7.0\ref\IP.BaseDomains.dll

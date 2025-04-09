@@ -1,0 +1,149 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Domain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DomainMongo.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mapper.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Repository.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Services.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DomainMongo.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mapper.Infrastructure.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Repository.Infrastructure.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Domain.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Services.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.Depen.8B16E732.Up2Date
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\refint\IP.DependencyInjection.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\ref\IP.DependencyInjection.Infrastructure.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Repository.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Services.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Domains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Repository.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Services.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.Depen.8B16E732.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\refint\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\ref\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\refint\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Repository.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Services.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Services.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Domains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Repository.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.Depen.8B16E732.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.ManipulacaoMedicamentos\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\ref\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DependencyInjection.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Handlers.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Cryptography.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Mapper.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.RabbitMQ.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Repository.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Services.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Handlers.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Services.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Repository.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.Domains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\bin\Debug\net7.0\IP.DomainsConfiguration.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.Depen.8B16E732.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\refint\IP.DependencyInjection.Infrastructure.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\IP.DependencyInjection.Infrastructure.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.EstoqueCompras\Infrastructure\IP.DependencyInjection.Infrastructure\obj\Debug\net7.0\ref\IP.DependencyInjection.Infrastructure.dll

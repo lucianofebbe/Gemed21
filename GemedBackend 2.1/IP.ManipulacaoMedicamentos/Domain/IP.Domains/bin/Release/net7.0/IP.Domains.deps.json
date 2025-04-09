@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IP.Domains/1.0.0": {
+        "dependencies": {
+          "IP.BaseDomains": "1.0.0.0"
+        },
+        "runtime": {
+          "IP.Domains.dll": {}
+        }
+      },
+      "IP.BaseDomains/1.0.0.0": {
+        "runtime": {
+          "IP.BaseDomains.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IP.Domains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IP.BaseDomains/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

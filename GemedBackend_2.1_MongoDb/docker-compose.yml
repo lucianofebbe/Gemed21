@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  mongo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # Nome do seu Dockerfile
+    # Para desenvolvimento, descomentar as duas linhas abaixo, para produção, comente-as
+    ports:
+      - "27018:27017"
+    networks:
+      broker-Gemed21:
+        ipv4_address: 172.20.0.10
+
+networks:
+  broker-Gemed21:
+    external:
+      name: broker-Gemed21

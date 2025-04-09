@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dt2Lb8x3JBwGzGEhJXTtqly8NrexXzLOriAEfzQkeqw=",
+  "Source": "IP.Gateway",
+  "BasePath": "_content/IP.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

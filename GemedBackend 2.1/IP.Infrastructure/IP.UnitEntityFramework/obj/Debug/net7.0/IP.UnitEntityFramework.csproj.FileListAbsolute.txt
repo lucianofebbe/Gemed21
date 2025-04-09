@@ -1,0 +1,45 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.UnitEntityFramework.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.UnitEntityFramework.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Domain.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Logs.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Mails.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.MongoDb.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Domain.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitE.B1814636.Up2Date
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\refint\IP.UnitEntityFramework.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\ref\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.UnitEntityFramework.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.UnitEntityFramework.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.BaseDomains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Logs.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.Mails.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\bin\Debug\net7.0\IP.MongoDb.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitE.B1814636.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\refint\IP.UnitEntityFramework.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\IP.UnitEntityFramework.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.UnitEntityFramework\obj\Debug\net7.0\ref\IP.UnitEntityFramework.dll

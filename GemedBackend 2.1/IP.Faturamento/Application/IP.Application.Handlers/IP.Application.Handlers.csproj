@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\IP.Repository.Infrastructure\IP.Repository.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Services\IP.Services\IP.Services.csproj" />
+    <ProjectReference Include="..\IP.Application.Comands.Requests\IP.Application.Comands.Requests.csproj" />
+    <ProjectReference Include="..\IP.Application.Comands.Responses\IP.Application.Comands.Responses.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="IP.BaseDomains">
+      <HintPath>..\..\Infrastructure\IP.Dlls.Infrastructure\IP.BaseDomains.dll</HintPath>
+    </Reference>
+    <Reference Include="IP.Cryptography">
+      <HintPath>..\..\Infrastructure\IP.Dlls.Infrastructure\IP.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="IP.Logs">
+      <HintPath>..\..\Infrastructure\IP.Dlls.Infrastructure\IP.Logs.dll</HintPath>
+    </Reference>
+    <Reference Include="IP.Mails">
+      <HintPath>..\..\Infrastructure\IP.Dlls.Infrastructure\IP.Mails.dll</HintPath>
+    </Reference>
+    <Reference Include="IP.Mapper">
+      <HintPath>..\..\Infrastructure\IP.Dlls.Infrastructure\IP.Mapper.dll</HintPath>
+    </Reference>
+    <Reference Include="IP.MongoDb">
+      <HintPath>..\..\Infrastructure\IP.Dlls.Infrastructure\IP.MongoDb.dll</HintPath>
+    </Reference>
+    <Reference Include="IP.RabbitMQ">
+      <HintPath>..\..\Infrastructure\IP.Dlls.Infrastructure\IP.RabbitMQ.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

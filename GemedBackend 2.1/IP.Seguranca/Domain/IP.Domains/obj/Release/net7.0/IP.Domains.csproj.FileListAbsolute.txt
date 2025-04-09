@@ -1,0 +1,15 @@
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\bin\Release\net7.0\IP.Domains.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\bin\Release\net7.0\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\bin\Release\net7.0\IP.Domains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\bin\Release\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.csproj.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\refint\IP.Domains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\IP.Domains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Domain\IP.Domains\obj\Release\net7.0\ref\IP.Domains.dll

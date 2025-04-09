@@ -1,0 +1,37 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.EasyAdoSqlServer.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.EasyAdoSqlServer.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.BaseDomains.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\refint\IP.EasyAdoSqlServer.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\ref\IP.EasyAdoSqlServer.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyA.64BCA763.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.EasyAdoSqlServer.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.EasyAdoSqlServer.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.Logs.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.Mails.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.MongoDb.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.BaseDomains.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.Logs.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.Mails.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\bin\Release\net7.0\IP.MongoDb.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyA.64BCA763.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\refint\IP.EasyAdoSqlServer.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\IP.EasyAdoSqlServer.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.EasyAdoSqlServer\obj\Release\net7.0\ref\IP.EasyAdoSqlServer.dll

@@ -1,0 +1,50 @@
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.deps.json
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.csproj.AssemblyReference.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.AssemblyInfoInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.AssemblyInfo.cs
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Appli.9BB5A125.Up2Date
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\refint\IP.Application.Comands.Requests.dll
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\lucia\source\Gemed21\BackEnd\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\ref\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Appli.9BB5A125.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\refint\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Usuario\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\ref\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.deps.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Responses.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.BaseDomains.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\bin\Debug\net7.0\IP.Application.Comands.Responses.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.csproj.AssemblyReference.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.AssemblyInfoInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.AssemblyInfo.cs
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.csproj.CoreCompileInputs.cache
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.sourcelink.json
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Appli.9BB5A125.Up2Date
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\refint\IP.Application.Comands.Requests.dll
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\IP.Application.Comands.Requests.pdb
+C:\Users\Interprocess\Documents\Gemed21\GemedBackend 2.1\IP.Seguranca\Application\IP.Application.Comands.Requests\obj\Debug\net7.0\ref\IP.Application.Comands.Requests.dll
