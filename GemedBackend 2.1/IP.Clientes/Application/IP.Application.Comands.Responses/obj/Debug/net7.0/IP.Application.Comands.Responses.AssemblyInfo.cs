@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IP.Application.Comands.Responses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6971f5c2ec9938a1ebcc4585d9438be0b2125428")]
 [assembly: System.Reflection.AssemblyProductAttribute("IP.Application.Comands.Responses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IP.Application.Comands.Responses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

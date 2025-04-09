@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|c:\\users\\lucia\\documents\\clientes\\gemed\\gemedbackend 2.1\\ip.infrastructure\\ip.unitentityframework\\unitentityframework\\request\\unitofworkrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|solutionrelative:ip.unitentityframework\\unitentityframework\\request\\unitofworkrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|c:\\users\\lucia\\documents\\clientes\\gemed\\gemedbackend 2.1\\ip.infrastructure\\ip.unitentityframework\\contexts\\unitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|solutionrelative:ip.unitentityframework\\contexts\\unitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|c:\\users\\lucia\\documents\\clientes\\gemed\\gemedbackend 2.1\\ip.infrastructure\\ip.unitentityframework\\unitentityframework\\commands\\unitofworkcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|solutionrelative:ip.unitentityframework\\unitentityframework\\commands\\unitofworkcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|c:\\users\\lucia\\documents\\clientes\\gemed\\gemedbackend 2.1\\ip.infrastructure\\ip.unitentityframework\\unitentityframeworkfactory\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|solutionrelative:ip.unitentityframework\\unitentityframeworkfactory\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|c:\\users\\lucia\\documents\\clientes\\gemed\\gemedbackend 2.1\\ip.infrastructure\\ip.unitentityframework\\contexts\\iunitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8328240-A456-489C-8D3F-4A9AFA6E6DDF}|IP.UnitEntityFramework\\IP.UnitEntityFramework.csproj|solutionrelative:ip.unitentityframework\\contexts\\iunitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,33 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitContext.cs",
-              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\Contexts\\UnitContext.cs",
-              "RelativeDocumentMoniker": "IP.UnitEntityFramework\\Contexts\\UnitContext.cs",
-              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\Contexts\\UnitContext.cs",
-              "RelativeToolTip": "IP.UnitEntityFramework\\Contexts\\UnitContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:46:06.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitOfWorkRequest.cs",
-              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\UnitEntityFramework\\Request\\UnitOfWorkRequest.cs",
-              "RelativeDocumentMoniker": "IP.UnitEntityFramework\\UnitEntityFramework\\Request\\UnitOfWorkRequest.cs",
-              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\UnitEntityFramework\\Request\\UnitOfWorkRequest.cs",
-              "RelativeToolTip": "IP.UnitEntityFramework\\UnitEntityFramework\\Request\\UnitOfWorkRequest.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:41:25.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UnitOfWorkCommands.cs",
               "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\UnitEntityFramework\\Commands\\UnitOfWorkCommands.cs",
               "RelativeDocumentMoniker": "IP.UnitEntityFramework\\UnitEntityFramework\\Commands\\UnitOfWorkCommands.cs",
@@ -84,33 +42,7 @@
               "RelativeToolTip": "IP.UnitEntityFramework\\UnitEntityFramework\\Commands\\UnitOfWorkCommands.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:28:42.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepositoryFactory.cs",
-              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\UnitEntityFrameworkFactory\\RepositoryFactory.cs",
-              "RelativeDocumentMoniker": "IP.UnitEntityFramework\\UnitEntityFrameworkFactory\\RepositoryFactory.cs",
-              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\UnitEntityFrameworkFactory\\RepositoryFactory.cs",
-              "RelativeToolTip": "IP.UnitEntityFramework\\UnitEntityFrameworkFactory\\RepositoryFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:28:31.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUnitContext.cs",
-              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\Contexts\\IUnitContext.cs",
-              "RelativeDocumentMoniker": "IP.UnitEntityFramework\\Contexts\\IUnitContext.cs",
-              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.UnitEntityFramework\\Contexts\\IUnitContext.cs",
-              "RelativeToolTip": "IP.UnitEntityFramework\\Contexts\\IUnitContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:28:21.908Z",
+              "WhenOpened": "2025-04-01T16:30:05.997Z",
               "EditorCaption": ""
             }
           ]

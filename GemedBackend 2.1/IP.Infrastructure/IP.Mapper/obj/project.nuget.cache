@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OEKYLlXw8eI=",
+  "dgSpecHash": "1cc4BBqsEmY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
+  "projectFilePath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\lucia\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

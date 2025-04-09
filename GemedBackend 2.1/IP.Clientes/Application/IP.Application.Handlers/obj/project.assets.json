@@ -2243,26 +2243,12 @@
           "bin/placeholder/IP.Domains.dll": {}
         }
       },
-      "IP.DomainsConfiguration.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "IP.Domains": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "7.0.15"
-        },
-        "compile": {
-          "bin/placeholder/IP.DomainsConfiguration.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/IP.DomainsConfiguration.Infrastructure.dll": {}
-        }
-      },
       "IP.Repository.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj": "1.0.0",
           "IP.Domains": "1.0.0",
-          "IP.DomainsConfiguration.Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
           "MongoDB.Driver": "2.23.1"
         },
@@ -6599,11 +6585,6 @@
       "path": "../../Domain/IP.Domains/IP.Domains.csproj",
       "msbuildProject": "../../Domain/IP.Domains/IP.Domains.csproj"
     },
-    "IP.DomainsConfiguration.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../../../IP.Gateway/Infrastructure/IP.DomainsConfiguration.Infrastructure/IP.DomainsConfiguration.Infrastructure.csproj",
-      "msbuildProject": "../../../IP.Gateway/Infrastructure/IP.DomainsConfiguration.Infrastructure/IP.DomainsConfiguration.Infrastructure.csproj"
-    },
     "IP.Repository.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../../Infrastructure/IP.Repository.Infrastructure/IP.Repository.Infrastructure.csproj",
@@ -6632,11 +6613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj",
+      "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj",
       "projectName": "IP.Application.Handlers",
-      "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj",
+      "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Handlers\\IP.Application.Handlers.csproj",
       "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Handlers\\obj\\",
+      "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Handlers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6658,17 +6639,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj": {
-              "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj"
+            "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj": {
+              "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Comands.Requests\\IP.Application.Comands.Requests.csproj"
             },
-            "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj": {
-              "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj"
+            "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj": {
+              "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Application\\IP.Application.Comands.Responses\\IP.Application.Comands.Responses.csproj"
             },
-            "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.Repository.Infrastructure\\IP.Repository.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.Repository.Infrastructure\\IP.Repository.Infrastructure.csproj"
+            "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.Repository.Infrastructure\\IP.Repository.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.Repository.Infrastructure\\IP.Repository.Infrastructure.csproj"
             },
-            "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Services\\IP.Services\\IP.Services.csproj": {
-              "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Services\\IP.Services\\IP.Services.csproj"
+            "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Services\\IP.Services\\IP.Services.csproj": {
+              "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Services\\IP.Services\\IP.Services.csproj"
             }
           }
         }
@@ -6716,5 +6697,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Não é possível encontrar as informações do projeto para 'C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj'. Se você está usando o Visual Studio, isso pode ocorrer porque o projeto não está carregado ou não faz parte da solução atual. Portanto, execute uma restauração usando a linha de comando. Do contrário, o arquivo de projeto pode ser inválido ou pode haver destinos obrigatórios para a restauração ausentes.",
+      "libraryId": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Gateway\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

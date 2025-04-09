@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj": {}
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj": {
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj",
         "projectName": "IP.Domains",
-        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj": {
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj",
         "projectName": "IP.DomainsConfiguration.Infrastructure",
-        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Domain\\IP.Domains\\IP.Domains.csproj"
               }
             }
           }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IP.Cryptography")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6971f5c2ec9938a1ebcc4585d9438be0b2125428")]
 [assembly: System.Reflection.AssemblyProductAttribute("IP.Cryptography")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IP.Cryptography")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

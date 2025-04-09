@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj": {}
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj",
         "projectName": "IP.BaseDomains",
-        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj": {
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj",
         "projectName": "IP.Logs",
-        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,14 +104,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
               },
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj"
               },
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj": {
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj",
         "projectName": "IP.Mails",
-        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\IP.Mails.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mails\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -179,8 +179,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj"
               }
             }
           }
@@ -225,14 +225,14 @@
         }
       }
     },
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj": {
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
         "projectName": "IP.Mapper",
-        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,11 +254,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
               },
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj"
               }
             }
           }
@@ -307,14 +307,14 @@
         }
       }
     },
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj": {
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj",
         "projectName": "IP.MongoDb",
-        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\IP.MongoDb.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.MongoDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -336,8 +336,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
               }
             }
           }
@@ -382,14 +382,14 @@
         }
       }
     },
-    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj": {
+    "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj",
         "projectName": "IP.RabbitMQ",
-        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj",
+        "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\IP.RabbitMQ.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -411,14 +411,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.BaseDomains\\IP.BaseDomains.csproj"
               },
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Logs\\IP.Logs.csproj"
               },
-              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj": {
-                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj"
+              "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Infrastructure\\IP.Mapper\\IP.Mapper.csproj"
               }
             }
           }

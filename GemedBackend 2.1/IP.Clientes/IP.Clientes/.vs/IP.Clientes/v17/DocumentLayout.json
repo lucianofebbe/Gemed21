@@ -1,16 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\IP.Clientes\\",
+  "WorkspaceRootPath": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\IP.Clientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78B6EC30-ABFC-43EE-9916-EE478B9CE056}|IP.Clientes.csproj|c:\\users\\lucia\\documents\\clientes\\gemed\\gemedbackend 2.1\\ip.clientes\\ip.clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B6EC30-ABFC-43EE-9916-EE478B9CE056}|IP.Clientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C943D61-8DDF-42F1-9E5F-126835686AE9}|..\\Infrastructure\\IP.Repository.Infrastructure\\IP.Repository.Infrastructure.csproj|c:\\users\\lucia\\documents\\clientes\\gemed21\\gemedbackend 2.1\\ip.clientes\\infrastructure\\ip.repository.infrastructure\\contexts\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C943D61-8DDF-42F1-9E5F-126835686AE9}|..\\Infrastructure\\IP.Repository.Infrastructure\\IP.Repository.Infrastructure.csproj|c:\\users\\lucia\\documents\\clientes\\gemed\\gemedbackend 2.1\\ip.clientes\\infrastructure\\ip.repository.infrastructure\\contexts\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D2B451-9B6D-44FE-A2AD-AC21A22465CC}|..\\Infrastructure\\IP.DependencyInjection.Infrastructure\\IP.DependencyInjection.Infrastructure.csproj|c:\\users\\lucia\\documents\\clientes\\gemed\\gemedbackend 2.1\\ip.clientes\\infrastructure\\ip.dependencyinjection.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F95863FD-0861-491B-B9E2-DDBCE1C423D1}|..\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\IP.DomainsConfiguration.Infrastructure.csproj|c:\\users\\lucia\\documents\\clientes\\gemed21\\gemedbackend 2.1\\ip.clientes\\infrastructure\\ip.domainsconfiguration.infrastructure\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,40 +41,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.Repository.Infrastructure\\Contexts\\Context.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\IP.Repository.Infrastructure\\Contexts\\Context.cs",
-              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.Repository.Infrastructure\\Contexts\\Context.cs",
-              "RelativeToolTip": "..\\Infrastructure\\IP.Repository.Infrastructure\\Contexts\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "UsuarioConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\UsuarioConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\UsuarioConfiguration.cs",
+              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\UsuarioConfiguration.cs",
+              "RelativeToolTip": "..\\Infrastructure\\IP.DomainsConfiguration.Infrastructure\\UsuarioConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T15:46:24.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DependencyInjection.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\IP.DependencyInjection.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.DependencyInjection.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\Infrastructure\\IP.DependencyInjection.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T15:20:16.632Z",
+              "WhenOpened": "2025-04-09T03:02:58.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\IP.Clientes\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed\\GemedBackend 2.1\\IP.Clientes\\IP.Clientes\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.Repository.Infrastructure\\Contexts\\Context.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\IP.Repository.Infrastructure\\Contexts\\Context.cs",
+              "ToolTip": "C:\\Users\\lucia\\Documents\\Clientes\\Gemed21\\GemedBackend 2.1\\IP.Clientes\\Infrastructure\\IP.Repository.Infrastructure\\Contexts\\Context.cs",
+              "RelativeToolTip": "..\\Infrastructure\\IP.Repository.Infrastructure\\Contexts\\Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T15:20:03.659Z",
+              "WhenOpened": "2025-04-09T02:58:55.877Z",
               "EditorCaption": ""
             }
           ]

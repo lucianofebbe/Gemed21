@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IP.Mails
-build_property.ProjectDir = C:\Users\lucia\Documents\Clientes\Gemed\GemedBackend 2.1\IP.Infrastructure\IP.Mails\
+build_property.ProjectDir = C:\Users\lucia\Documents\Clientes\Gemed21\GemedBackend 2.1\IP.Infrastructure\IP.Mails\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
